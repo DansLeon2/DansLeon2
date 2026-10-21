@@ -65,6 +65,15 @@
 
 <img src="pixel-stars.gif" width="100%" alt="Separador retro de estrellas" />
 
-✦ Thanks for visiting my universe ✦
+
+<div align="center">
+  <h2>✧ CONTRIBUTION QUEST 🐍</h2>
+
+  <img
+    src="https://raw.githubusercontent.com/Dans_Leon2/Dans_Leon2/output/github-snake.svg"
+    width="100%"
+    alt="Snake contributions"
+  />
+</div>
 
 </div>
