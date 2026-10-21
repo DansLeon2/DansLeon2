@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DansLeon2/DansLeon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 💜 ¡Hola! Soy Daniel 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Estudiante de Ingeniería en Software
+
+✨ Apasionado por la programación y la tecnología ✨
+
+---
+
+### 🚀 Sobre mí
+
+🎓 Estudio Ingeniería en Software  
+🌎 Soy de Ecuador 🇪🇨  
+💻 Me gusta desarrollar proyectos de software  
+📚 Siempre aprendiendo nuevas tecnologías  
+
+### 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+### 🌟 Gracias por visitar mi perfil
+
+</div>
+  
